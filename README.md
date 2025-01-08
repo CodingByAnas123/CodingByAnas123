@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.instagram.com/codingbyanas12/" target="_blank">
-    <img src="cover3.png" alt="Coding By Anas">
+    <img src="cover2.png" alt="Coding By Anas">
   </a>
 </p>
 
